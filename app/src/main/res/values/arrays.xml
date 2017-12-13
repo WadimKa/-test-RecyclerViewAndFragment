@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="arrayWithStrings">
+        <item>comedy</item>
+        <item>europa</item>
+        <item>hit</item>
+        <item>maximum</item>
+        <item>newradio</item>
+        <item>nrj</item>
+        <item>radiotnt</item>
+        <item>record</item>
+        <item>russkyirock</item>
+        <item>silverrain</item>
+    </string-array>
+</resources>
